@@ -1,0 +1,14 @@
+/Users/jackpalmstrom/Documents/Development/calculatorApp/bin/Debug/net8.0/calculatorApp
+/Users/jackpalmstrom/Documents/Development/calculatorApp/bin/Debug/net8.0/calculatorApp.deps.json
+/Users/jackpalmstrom/Documents/Development/calculatorApp/bin/Debug/net8.0/calculatorApp.runtimeconfig.json
+/Users/jackpalmstrom/Documents/Development/calculatorApp/bin/Debug/net8.0/calculatorApp.dll
+/Users/jackpalmstrom/Documents/Development/calculatorApp/bin/Debug/net8.0/calculatorApp.pdb
+/Users/jackpalmstrom/Documents/Development/calculatorApp/obj/Debug/net8.0/calculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackpalmstrom/Documents/Development/calculatorApp/obj/Debug/net8.0/calculatorApp.AssemblyInfoInputs.cache
+/Users/jackpalmstrom/Documents/Development/calculatorApp/obj/Debug/net8.0/calculatorApp.AssemblyInfo.cs
+/Users/jackpalmstrom/Documents/Development/calculatorApp/obj/Debug/net8.0/calculatorApp.csproj.CoreCompileInputs.cache
+/Users/jackpalmstrom/Documents/Development/calculatorApp/obj/Debug/net8.0/calculatorApp.dll
+/Users/jackpalmstrom/Documents/Development/calculatorApp/obj/Debug/net8.0/refint/calculatorApp.dll
+/Users/jackpalmstrom/Documents/Development/calculatorApp/obj/Debug/net8.0/calculatorApp.pdb
+/Users/jackpalmstrom/Documents/Development/calculatorApp/obj/Debug/net8.0/calculatorApp.genruntimeconfig.cache
+/Users/jackpalmstrom/Documents/Development/calculatorApp/obj/Debug/net8.0/ref/calculatorApp.dll
